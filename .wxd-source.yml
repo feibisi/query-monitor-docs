@@ -1,0 +1,4 @@
+product: query-monitor-docs
+current_source: official
+official:
+  url: https://github.com/johnbillion/query-monitor.git
